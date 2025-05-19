@@ -27,9 +27,10 @@ We're going to go with Census Track identifier - less specific, but still identi
 
 
 ## Find the properties on the rental registry.
-
+We are using the `registry.json` file, which we generated from our [rental registry scraper](https://github.com/codefordayton/property_owner_accountability). 
 
 ## Find the nuisance list for properties.
+We are using the housing_complaints.csv file, which we downloaded from the City of Dayton's open data portal, [here](https://daytonohio.maps.arcgis.com/apps/webappviewer/index.html?id=6191ca53bcb3416b808490135ad23b69).
 
 
 ## Data Processing Scripts
