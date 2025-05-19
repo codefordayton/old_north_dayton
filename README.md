@@ -19,19 +19,20 @@ Exploring the data
 - https://gis.mcohio.org/VPCore/VP.html?config=aud
 
 
-![Census_Tract_QGIS](images/Census_Tract_qgis.png)
+![Census_Tract_QGIS](images/Census_tract_qgis.png)
+The Census Tract containing Old North Dayton.
+
 ![NBHD_code_QGIS](images/NBHD_code_qgis.png)
+The Neighborhood code containing Old North Dayton, as seen in the QGIS map.
+
 ![NBHD_code_online](images/NBHD_code_online.png)
-
-We're going to go with Census Track identifier - less specific, but still identifies every property.
-
+The Neighborhood code containing Old North Dayton, as seen on the City of Dayton's website.
 
 ## Find the properties on the rental registry.
 We are using the `registry.json` file, which we generated from our [rental registry scraper](https://github.com/codefordayton/property_owner_accountability). 
 
 ## Find the nuisance list for properties.
 We are using the housing_complaints.csv file, which we downloaded from the City of Dayton's open data portal, [here](https://daytonohio.maps.arcgis.com/apps/webappviewer/index.html?id=6191ca53bcb3416b808490135ad23b69).
-
 
 ## Data Processing Scripts
 
